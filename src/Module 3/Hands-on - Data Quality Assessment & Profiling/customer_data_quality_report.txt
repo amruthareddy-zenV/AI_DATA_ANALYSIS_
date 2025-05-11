@@ -1,0 +1,14 @@
+CUSTOMER DATA QUALITY REPORT
+==================================================
+
+OVERVIEW:
+Total Customers     : 7
+Total Columns       : 5
+Duplicate Emails    : 1
+Complete Records    : 3
+
+MISSING VALUES:
+Email       2
+Phone       2
+JoinDate    1
+dtype: int64

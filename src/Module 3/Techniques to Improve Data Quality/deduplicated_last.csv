@@ -1,0 +1,9 @@
+CustomerID,Name,Email,JoinDate,PurchaseAmount
+101,Alice,a@test.com,2023-01-01,100
+102,Bob,b@test.com,2023-02-01,150
+103,Charlie,c@test.com,2023-03-01,200
+101,Alice,a@test.com,2023-01-15,120
+104,David,d@test.com,2023-04-01,175
+102,Bob,b@test.com,2023-02-15,160
+105,Eve,e@test.com,2023-05-01,225
+101,Alice,a_new@test.com,2023-01-20,110

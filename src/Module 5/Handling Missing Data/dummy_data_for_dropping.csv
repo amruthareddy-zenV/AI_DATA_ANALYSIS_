@@ -1,0 +1,11 @@
+ColumnA,ColumnB,ColumnC,ColumnD
+1.0,A,10.1,True
+2.0,B,20.2,False
+3.0,C,,True
+,D,40.4,True
+5.0,E,50.5,False
+6.0,F,60.6,
+,G,70.7,True
+8.0,H,80.8,False
+9.0,I,,True
+10.0,J,,False

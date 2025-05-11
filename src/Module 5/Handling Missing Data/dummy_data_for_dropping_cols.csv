@@ -1,0 +1,11 @@
+ColumnA,ColumnB,ColumnC_with_NaNs,ColumnD_with_NaNs,ColumnE_no_NaNs
+1,A,10.1,True,100
+2,B,20.2,False,200
+3,C,,True,300
+4,D,40.4,True,400
+5,E,50.5,False,500
+6,F,60.6,,600
+7,G,70.7,True,700
+8,H,80.8,False,800
+9,I,,True,900
+10,J,,False,1000
